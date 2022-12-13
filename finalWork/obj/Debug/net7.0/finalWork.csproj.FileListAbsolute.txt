@@ -1,0 +1,15 @@
+/Users/uliapolakova/Desktop/finalWork/finalWork/bin/Debug/net7.0/finalWork
+/Users/uliapolakova/Desktop/finalWork/finalWork/bin/Debug/net7.0/finalWork.deps.json
+/Users/uliapolakova/Desktop/finalWork/finalWork/bin/Debug/net7.0/finalWork.runtimeconfig.json
+/Users/uliapolakova/Desktop/finalWork/finalWork/bin/Debug/net7.0/finalWork.dll
+/Users/uliapolakova/Desktop/finalWork/finalWork/bin/Debug/net7.0/finalWork.pdb
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.csproj.AssemblyReference.cache
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.AssemblyInfoInputs.cache
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.AssemblyInfo.cs
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.csproj.CoreCompileInputs.cache
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.dll
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/refint/finalWork.dll
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.pdb
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/finalWork.genruntimeconfig.cache
+/Users/uliapolakova/Desktop/finalWork/finalWork/obj/Debug/net7.0/ref/finalWork.dll
