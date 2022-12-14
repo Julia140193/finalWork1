@@ -14,6 +14,13 @@
 # **Последовательное решение задачи:**
 
 1. На *GitHub* создан репозиторий под названием *__"finalWork1"__*
+Осуществлена привязка *VSCode* с репозиторием через команду:
+
+*git remote add origin https://github.com/Julia140193/finalWork1.git*
+
+*git branch -M main*
+
+*git push -u origin main*
 
 2. 
 
